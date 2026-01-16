@@ -1,2 +1,2 @@
 # ML-Projects
-Some interesting course projects that I did.
+Some interesting projects that I did.
